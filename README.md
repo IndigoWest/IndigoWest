@@ -7,7 +7,7 @@
 - :video_game: My favorite video game is Skyrim!
 - :trophy: My personal achievements are: maintaining all A's since middle school & staying in NHS!
 - :rocket: My goal is to successfully be able to code and make a complete game!
-Fun Facts:
+Fun Facts!
 - :jack_o_lantern: My favorite holiday is Halloween!
 - :books: I study various mythologies and the supernatural!
 - 
